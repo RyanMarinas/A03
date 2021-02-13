@@ -1,12 +1,12 @@
 # A03
-Webstorm Setup
-Webstorm is an editor that supports many coding languages such as HTML, CSS, and many others. 
-Download student version of webstorm
-Go to settings, system preferences, version control, and select Git. Make sure the path to Git is to git.exe
-Navigate to System settings, passwords, and choose a location for a password file
-Once GitHub and Git are setup, navigate to VCS and import to Version Control
-Now you can create any file you would like and once down you need to add the file to Git which is on the left side
-Commit your changes and you should see it updated on Github
+Webstorm Setup  
+Webstorm is an editor that supports many coding languages such as HTML, CSS, and many others.   
+Download student version of webstorm  
+Go to settings, system preferences, version control, and select Git. Make sure the path to Git is to git.exe  
+Navigate to System settings, passwords, and choose a location for a password file  
+Once GitHub and Git are setup, navigate to VCS and import to Version Control  
+Now you can create any file you would like and once down you need to add the file to Git which is on the left side  
+Commit your changes and you should see it updated on Github  
 
 GitHub Setup
 Host and provider of a collaboration platform for souce code management
